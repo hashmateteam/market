@@ -2,5 +2,4 @@
 deployment:
     tasks:
         - export DEPLOYPATH=[path]
-        - /usr/local/bin/composer install
-        - /bin/cp -r web/* $DEPLOYPATH
+        - composer install
