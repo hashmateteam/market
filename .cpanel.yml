@@ -1,5 +1,5 @@
 ---
 deployment:
     tasks:
-        - export DEPLOYPATH=[path]
+        - export DEPLOYPATH=/home/misrishah/market/
         - composer install
