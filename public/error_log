@@ -42,3 +42,5 @@
 [24-Jun-2020 10:32:02 UTC] PHP Fatal error:  require(): Failed opening required '/home/misrishah/market/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/misrishah/market/public/index.php on line 24
 [24-Jun-2020 10:37:25 UTC] PHP Warning:  require(/home/misrishah/market/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/misrishah/market/public/index.php on line 24
 [24-Jun-2020 10:37:25 UTC] PHP Fatal error:  require(): Failed opening required '/home/misrishah/market/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/misrishah/market/public/index.php on line 24
+[24-Jun-2020 10:40:00 UTC] PHP Warning:  require(/home/misrishah/market/public/../vendor/autoload.php): failed to open stream: No such file or directory in /home/misrishah/market/public/index.php on line 24
+[24-Jun-2020 10:40:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/misrishah/market/public/../vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/misrishah/market/public/index.php on line 24
