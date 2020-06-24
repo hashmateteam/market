@@ -3,5 +3,6 @@ deployment:
     tasks:
         - export DEPLOYPATH=/home/misrishah/market/
         - composer i
+        - cp .env.example .env
         - php artisan key:generate
         - php artisan up
